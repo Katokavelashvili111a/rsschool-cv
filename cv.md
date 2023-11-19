@@ -11,7 +11,7 @@
 
 I am currently taking two courses, RS SCHOOl JS Front-End (eng, online)
 and a C# course (offline). i truly enjoy web development and
- wish to learn as much as i can.
+wish to learn as much as i can.
 I take it my best interest to do as much research as possible, and do my absolute 
 best so i can become a helpful addition to my future workplace. 
 
@@ -49,13 +49,13 @@ foreach (string sortedFruit in sortedFruits)
 
 ## EXPERIENCE
 
-- IT STEP ACHADEMY courses
+- IT STEP ACADEMY courses
 
 ## COURSES
 
-- IT STEP ACHADEMY Advanced course (Front-End HTML,CSS,JS and Angular)
+- IT STEP ACADEMY Advanced course (Front-End HTML,CSS,JS and Angular)
 
-- IT STEP ACHADEMY Advanced course(Back-End C# still in progress)
+- IT STEP ACADEMY Advanced course(Back-End C# still in progress)
 
 ## LANGUAGES
 
