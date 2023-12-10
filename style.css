@@ -212,7 +212,7 @@
     display: flex;
     justify-content: center;
     flex-direction: row;
-    margin-top: 100px;
+    margin-top: 30px;
    }
 
    .btnnext:hover{
@@ -241,17 +241,25 @@
     font-style: italic;
    }
    
-   .price p{
-    font-size: 20px;
+   .name p{
+    font-size: 25px;
     margin-top: 660px;
-    margin-left: -505px;
+    margin-left: -595px;
    }
+
+
    .coffeeinfo p{
     font-size: 20px;
     margin-top: 750px;
     margin-left: -750px;
     position: absolute;
     line-height: 105%;
+   }
+
+   .price p{
+    font-size: 20px;
+    margin-top: 810px;
+    margin-left: -505px;
    }
    .infofavs{
     display: flex;
